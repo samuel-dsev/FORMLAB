@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# SQLite database
+agendamentos.db
+
+# Logs
+scheduler.log
+
+# Google service account credentials
+credentials.json
+
+# Local config with secrets
+config.py
+
+# Editor files
+*.swp
+*.swo
+.DS_Store
